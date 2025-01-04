@@ -1,4 +1,3 @@
-%%writefile ody8.py
 import streamlit as st
 import numpy as np
 from ultralytics import YOLO
